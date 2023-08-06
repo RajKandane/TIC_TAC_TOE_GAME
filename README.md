@@ -1,7 +1,5 @@
 # TIC_TAC_TOE_GAME
 
-# Tic Tac Toe Game
-
 ![Tic Tac Toe Screenshot](Screenshot/Screenshot%20(66).png)
 
 ## Introduction
