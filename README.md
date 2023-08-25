@@ -3,9 +3,13 @@
 
 ## TIC TAC TOE GAME Demo
 
-Check out the TIC TAC TOE GAME in action on YouTube:
+<div align="center">
+  <p>Check out the TIC TAC TOE GAME in action on YouTube:</p>
+  <a href="https://youtu.be/-pURylZd5Mk">
+    <img src="https://img.youtube.com/vi/-pURylZd5Mk/0.jpg" alt="TIC TAC TOE GAME Demo">
+  </a>
+</div>
 
-[![TIC TAC TOE GAME](https://img.youtube.com/vi/-pURylZd5Mk/0.jpg)](https://youtu.be/-pURylZd5Mk)
 
 
 ## TIC TAC TOE GAME Screenshot
